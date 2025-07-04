@@ -9,7 +9,13 @@ A modern responsive clone of the **Cynthia** website — built with love, caffei
 - Smooth animations
 - Custom cursor & designer float effect
 
+## 🛠️ Images
+![image](https://github.com/user-attachments/assets/3839e444-98bc-4f56-aa5d-b5761abf582c)
+![image](https://github.com/user-attachments/assets/3eb5f593-479b-4d67-82bd-49aa5acec40b)
+
+
 ## 🛠️ Tech Stack
+
 
 - **HTML5**
 - **CSS3**
